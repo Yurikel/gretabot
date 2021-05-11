@@ -176,6 +176,7 @@ html, body {
 @media (max-width: 767px) {
 
   #wrapper {
+    margin-top: 150px;
     width: 340px;
   }
 
