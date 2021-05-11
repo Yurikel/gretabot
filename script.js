@@ -115,4 +115,4 @@ function botSendReceive() {
 
 document.getElementById('submit').addEventListener('click', botSendReceive);
 document.getElementById('txtfield').addEventListener('keypress', function(event) {
-  if (event.code === "Enter") {botSendReceive();}});
+  if (event.code === "Enter") {botSendReceive();}})
