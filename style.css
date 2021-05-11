@@ -84,7 +84,7 @@ html, body {
 }
 
 #output > div {
-  width: 96%;
+  width: 90%;
   padding: 5px;
   margin: 5px 0 ;
 }
@@ -96,6 +96,7 @@ html, body {
 
 .answer {
   text-align: right;
+  margin-left: 20px !important;
   background-color:#ffffff36;
 }
 
